@@ -1,0 +1,188 @@
+{
+    "desktop": [
+        {
+            "label": "Expand",
+            "ischecked": true,
+            "key":"expand"
+        },
+        {
+            "label": "Favourite",
+            "ischecked": true,
+            "key":"favourite"
+        },
+        {
+            "label": "Coin",
+            "ischecked": true,
+            "key":"coin"
+        },
+        {
+            "label": "Price",
+            "ischecked": true,
+            "key":"price"
+        },
+        {
+            "label": "24 HR (%)",
+            "ischecked": true,
+            "key":"dayChange"
+        },
+        {
+            "label": "7 Day (%)",
+            "ischecked": true,
+            "key":"weaklyChange"
+        },
+        {
+            "label": "Volume (24 H)",
+            "ischecked": true,
+            "key":"dayVolume"
+        },
+        {
+            "label": "Market Cap",
+            "ischecked": true,
+            "key":"marketCap"
+        },
+        {
+            "label": "24 HR High/Low",
+            "ischecked": true,
+            "key":"dayHighLow"
+        },
+        {
+            "label": "Circulation Supply ",
+            "ischecked": false,
+            "key":"circulationSupply"
+        },
+        {
+            "label": "Total Supply",
+            "ischecked": false,
+            "key":"totalSupply"
+        },
+        {
+            "label": "Exchanges ",
+            "ischecked": false,
+            "key":"exchanges"
+        }
+    ],
+    "mobile": [
+        {
+            "label": "Expand",
+            "ischecked": true,
+            "key":"expand"
+        },
+        {
+            "label": "Favourite",
+            "ischecked": true,
+            "key":"favourite"
+        },
+        {
+            "label": "Coin",
+            "ischecked": true,
+            "key":"coin"
+        },
+        {
+            "label": "Price",
+            "ischecked": true,
+            "key":"price"
+        },
+        {
+            "label": "24 HR (%)",
+            "ischecked": true,
+            "key":"dayChange"
+        },
+        {
+            "label": "7 Day (%)",
+            "ischecked": true,
+            "key":"weaklyChange"
+        },
+        {
+            "label": "Volume (24 H)",
+            "ischecked": true,
+            "key":"dayVolume"
+        },
+        {
+            "label": "Market Cap",
+            "ischecked": true,
+            "key":"marketCap"
+        },
+        {
+            "label": "24 HR High/Low",
+            "ischecked": true,
+            "key":"dayHighLow"
+        },
+        {
+            "label": "Circulation Supply ",
+            "ischecked": false,
+            "key":"circulationSupply"
+        },
+        {
+            "label": "Total Supply",
+            "ischecked": false,
+            "key":"totalSupply"
+        },
+        {
+            "label": "Exchanges ",
+            "ischecked": false,
+            "key":"exchanges"
+        }
+    ],
+    "app": [
+        {
+            "label": "Expand",
+            "ischecked": true,
+            "key":"expand"
+        },
+        {
+            "label": "Favourite",
+            "ischecked": true,
+            "key":"favourite"
+        },
+        {
+            "label": "Coin",
+            "ischecked": true,
+            "key":"coin"
+        },
+        {
+            "label": "Price",
+            "ischecked": true,
+            "key":"price"
+        },
+        {
+            "label": "24 HR (%)",
+            "ischecked": true,
+            "key":"dayChange"
+        },
+        {
+            "label": "7 Day (%)",
+            "ischecked": true,
+            "key":"weaklyChange"
+        },
+        {
+            "label": "Volume (24 H)",
+            "ischecked": true,
+            "key":"dayVolume"
+        },
+        {
+            "label": "Market Cap",
+            "ischecked": true,
+            "key":"marketCap"
+        },
+        {
+            "label": "24 HR High/Low",
+            "ischecked": true,
+            "key":"dayHighLow"
+        },
+        {
+            "label": "Circulation Supply ",
+            "ischecked": false,
+            "key":"circulationSupply"
+        },
+        {
+            "label": "Total Supply",
+            "ischecked": false,
+            "key":"totalSupply"
+        },
+        {
+            "label": "Exchanges ",
+            "ischecked": false,
+            "key":"exchanges"
+        }
+    ]
+}
